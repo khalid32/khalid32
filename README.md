@@ -14,7 +14,7 @@ He started off his career as a Junior Developer. This contract quickly turned in
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -24,7 +24,7 @@ He started off his career as a Junior Developer. This contract quickly turned in
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -34,7 +34,7 @@ He started off his career as a Junior Developer. This contract quickly turned in
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-</div></td><td valign="top" width="33%"></td></tr></table>  
+</div></td></tr></table>  
 
 <br/>  
 
